@@ -2,9 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Samantha;I'm+23+years+old;I'm+from+Brasil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<br>
+
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SamanthaASilva&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Samantha github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamanthaASilva&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+<!-- Estatísticas -->
+<img height="180em" src="https://github-readme-stats-one-sigma-72.vercel.app/api?username=SamanthaASilva&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" />
+
+<!-- Linguagens mais usadas -->
+<img height="180em" src="https://github-readme-stats-one-sigma-72.vercel.app/api/top-langs/?username=SamanthaASilva&layout=compact&hide_border=true&title_color=ff91a4&text_color=c9d1d9&bg_color=0d1117&card_width=350" />
+<br>
 </div>
 <br>
 
